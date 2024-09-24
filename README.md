@@ -1,5 +1,5 @@
-# [Space-Time Fourier Ptychography (ST-FP)](https://doi.org/10.1364/OPTICA.531646)
-This is the code implementation for our paper "Space-Time Fourier Ptychography". (to be released)
+# [Space-time Fourier ptychography (ST-FP)](https://doi.org/10.1364/OPTICA.531646)
+This is the code implementation for our paper Space-time Fourier ptychography for in vivo quantitative phase imaging". (to be released)
 ### [Project Page](https://github.com/MingSun-KAUST/Space-Time-FP) | [Paper](https://doi.org/10.1364/OPTICA.531646) | [Supplement](https://doi.org/10.1364/OPTICA.531646)
 
 Authors: **[Ming Sun](https://vccimaging.org/People/ming/)**, **[Kunyi Wang](https://scholar.google.com/citations?user=D4xDAlUAAAAJ&hl=en)**, **[Yogeshwar Nath Mishra](https://vccimaging.org/People/ynmishra/)**, **[Simeng Qiu](https://qsimeng.github.io/)**, and **[Wolfgang Heidrich](https://vccimaging.org/People/heidriw/)** <br>
