@@ -8,8 +8,7 @@ This is the demo code for our paper "High-throughput space-time Fourier ptychogr
 Authors: **[Ming Sun](https://vccimaging.org/People/ming/)**, **[Kaizhang Kang](https://cocoakang.cn/)**, **[Yogeshwar Nath Mishra](https://vccimaging.org/People/ynmishra/)**, **[Xinge Yang](https://singer-yang.github.io/)**, **[Hadi Amata](https://vccimaging.org/People/amatah/)**, and **[Wolfgang Heidrich](https://vccimaging.org/People/heidriw/)** <br>
 King Abdullah University of Science and Technology (KAUST)<br>
 
-See more on our previous project "Space-time Fourier ptychography for in vivo quantitative phase imaging".
-### [Project Page](https://mingsun-kaust.github.io/ST-FP-Project-Page/) | [Paper](https://doi.org/10.1364/OPTICA.531646) | [Supplement](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-9-1250&id=558464#articleSupplMat)
+See more on our previous project "[Space-time Fourier ptychography for in vivo quantitative phase imaging](https://mingsun-kaust.github.io/ST-FP-Project-Page/)".
 
 
 ## Requirements
